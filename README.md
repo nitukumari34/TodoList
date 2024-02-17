@@ -23,6 +23,8 @@ bash
 Copy code
 npm start
 Open your browser and go to http://localhost:3000 to view the Todo List application.
+Open your browser and go to live link: https://todolist-e610c2.netlify.app/ to view the Todo List application.
+
 
 ## Usage
 Adding Tasks: Type a task in the input field and click the "Add Task" button.
